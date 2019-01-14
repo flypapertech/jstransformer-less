@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "less": "^3.0.1",
-    "less-plugin-inline-urls": "^1.1.0",
-    "less-plugin-npm-import": "^2.0.0"
+    "less": "3.9.0",
+    "less-plugin-inline-urls": "1.2.0",
+    "less-plugin-npm-import": "2.1.0"
   },
   "name": "jstransformer-less",
   "version": "2.3.0",
@@ -14,7 +14,7 @@
     "index.js"
   ],
   "devDependencies": {
-    "test-jstransformer": "^1.0.0",
+    "test-jstransformer": "1.0.2",
     "xo": "*"
   },
   "scripts": {
